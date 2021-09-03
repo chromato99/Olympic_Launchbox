@@ -4,7 +4,7 @@ http://kimbg.com
 Simple web game made with phaser.<br>
 Develop by BeomgiKim , Design by GayeongLee and HanbyelLee
 
-# Launch on localhost
+# Play on localhost
 ```bash
 npm install --global http-server
 http-server
