@@ -12,4 +12,4 @@ http-server
 
 # Reference
 Made with phaser HTML5 game framework.<br>
-BGM used phaser.io's tutorial game BGM.
+BGM used phaser.io's tutorial game's BGM.
