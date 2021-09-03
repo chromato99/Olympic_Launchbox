@@ -5,7 +5,7 @@ Simple web game made with phaser.<br>
 Develop by BeomgiKim , Design by KayeongLee and HanbyelLee
 
 # Play on localhost
-```bash
+```
 cd <project directory>
 npm install --global http-server
 http-server
