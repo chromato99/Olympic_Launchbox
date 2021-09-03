@@ -2,7 +2,7 @@
 http://kimbg.com
 
 Simple web game made with phaser.<br>
-Develop by BeomgiKim , Design by GayeongLee and HanbyelLee
+Develop by BeomgiKim , Design by KayeongLee and HanbyelLee
 
 # Play on localhost
 ```bash
