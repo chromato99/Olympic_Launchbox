@@ -1,7 +1,7 @@
 # Olympic_Launchbox
 http://kimbg.com
 
-Simple web game made with phaser.
+Simple web game made with phaser.<br>
 Develop by BeomgiKim , Design by GayeongLee and HanbyelLee
 
 # Launch on localhost
