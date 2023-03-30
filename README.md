@@ -1,5 +1,5 @@
 # Olympic_Launchbox
-https://game.chromato99.com
+https://olympic.chromato99.com
 
 Simple web game made with phaser.<br>
 Develop by BeomgiKim , Design by KayeongLee and HanbyeolLee
